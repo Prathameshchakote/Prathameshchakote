@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=Prathameshchakote&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" /> 
   <a href="https://www.linkedin.com/in/Prathamesh-Chakote/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://prathameshchakote.github.io/"><img src="https://img.shields.io/badge/Portfolio-%230E75B6.svg?style=flat-square" alt="Portfolio" /></a>
-  <a href="mailto:prathameshchakote@gmail.com"><img src="https://img.shields.io/badge/Email-%230E75B6.svg?style=flat-square" alt="Email" /></a>
+  <a href="mailto:chakoteprathamesh@gmail.com"><img src="https://img.shields.io/badge/Email-%230E75B6.svg?style=flat-square" alt="Email" /></a>
 </p>
 
 ---
