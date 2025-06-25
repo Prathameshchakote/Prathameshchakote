@@ -73,8 +73,8 @@
 
 <h3 align="center">🐍 Snake Animation</h3>
 <p align="center">
-  <img src="https://github.com/Prathameshchakote/Prathameshchakote/blob/output/github-snake.svg#gh-light-mode-only" alt="Snake Animation Light Mode" />
-  <img src="https://github.com/Prathameshchakote/Prathameshchakote/blob/output/github-snake-dark.svg#gh-dark-mode-only" alt="Snake Animation Dark Mode" />
+  <img src="https://github.com/Prathameshchakote/Prathameshchakote/blob/main/github-snake.svg#gh-light-mode-only" alt="Snake Animation Light Mode" />
+  <img src="https://github.com/Prathameshchakote/Prathameshchakote/blob/main/github-snake.svg#gh-dark-mode-only" alt="Snake Animation Dark Mode" />
 </p>
 
 [![@Prathameshchakote's Holopin board](https://holopin.me/Prathameshchakote)](https://holopin.io/@Prathameshchakote)
