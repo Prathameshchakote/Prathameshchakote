@@ -77,8 +77,8 @@
   <img src="https://github.com/Prathameshchakote/Prathameshchakote/blob/main/github-snake-dark.svg#gh-dark-mode-only" alt="Snake Animation Dark Mode" />
 </p>
 
-[![@Prathameshchakote's Holopin board](https://holopin.me/Prathameshchakote)](https://holopin.io/@Prathameshchakote)
-
+<!-- [![@Prathameshchakote's Holopin board](https://holopin.me/Prathameshchakote)](https://holopin.io/@Prathameshchakote)
+-->
 <!--
 **Prathameshchakote/Prathameshchakote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
